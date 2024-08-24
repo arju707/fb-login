@@ -1,0 +1,121 @@
+.header{
+    background: darkred;
+    width: 100%;
+    height: 85px;
+}
+
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.logo{
+    width: 50%;
+    padding-top: 36px;
+    float: left;   
+}
+
+.login{
+    width: 50%;
+    float: left;
+}
+
+
+.logotext{
+    color: #fff;
+    font-weight: bold;
+    font-size: 35px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+    
+}
+.login-label{
+    color: #fff;
+    font-size: 11px;
+
+    
+}
+.login-controls{
+    margin-left: 76px;
+    padding-top: 2px;
+}
+
+
+.forgoten-password{
+    text-decoration: none;
+    font-size: 11px;
+    color: #fff;
+}
+.forgoten-password:hover{
+    background: skyblue;
+}
+
+.sub-btn{
+    background: #4267b2;
+    color: #fff;
+    border-color: #29487d;
+    cursor: pointer;
+
+}
+
+.sub-btn:hover{
+    background: #29487d;;
+}
+
+.left-section{
+    width: 50%;
+    float: left;
+}
+
+.right-section{
+    width: 50%;
+    float: left;
+    border-radius: 2px;
+    height: 25px;
+    width: 230px;
+    font-size: smaller;
+    margin-top: 50px;
+    margin-left: 25px;
+}
+
+
+.main-body{
+    background: white;
+    width: 100%;
+    height:550px;
+
+}
+
+.img-fb{
+    width: 387px;
+    height: 317px;
+    padding-left: 246px;
+}
+
+.pra{
+    margin-left: 100px;
+    margin-top: 50px;
+    font-style: oblique;
+    font-size: larger;
+}
+
+.login-controls2{
+    margin-top: 14px;
+    padding-left: 13px;
+    margin-left: 4px;
+    height: 18px;
+    width: 324px;
+    border-width: 1px;
+}
+
+.date{
+    margin-top:  -10px;
+}
+.birthday{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color:black; ;
+
+}
